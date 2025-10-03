@@ -1,4 +1,0 @@
-﻿  Invader.c
-F:\코드\실습\실습\Invader.c(178,31): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
-  LINK : F:\코드\실습\x64\Debug\실습.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
-  실습.vcxproj -> F:\코드\실습\x64\Debug\실습.exe
